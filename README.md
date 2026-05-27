@@ -22,6 +22,26 @@ Multi-tenant SaaS for dog-grooming businesses. Calendar, customer and pet record
 ![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat&logo=cloudflare&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
 
+## Screenshots
+
+![Calendar week view](screenshots/k9-calendar-week-view.png)
+*Calendar — appointment scheduling with conflict detection and multi-staff views.*
+
+![AI assistant](screenshots/k9-ai-assistant.png)
+*AI assistant — Claude agent with 38 typed tool-calls across 8 domain modules.*
+
+![Client profile](screenshots/k9-client-profile.png)
+*Client profile — per-customer record with pet roster, grooming history, and photos.*
+
+![POS invoicing](screenshots/k9-pos-invoicing.png)
+*POS — point-of-sale invoicing tied to service templates.*
+
+![Financial reports](screenshots/k9-financial-reports.png)
+*Financial reports — revenue analytics by service, staff, and time window.*
+
+![Reports dashboard](screenshots/k9-reports-dashboard.png)
+*Reports dashboard — operational metrics across appointments, customers, and revenue.*
+
 ## What it does
 
 Shop owners manage their entire grooming-business workflow in one place:
